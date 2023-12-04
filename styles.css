@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    text-align: center;
+}
+.one{
+    background-color: rgb(107, 106, 101);
+    height: 100vh;
+    width: 20%;
+    float: left; 
+    display: flex;
+    justify-content: center;
+}
+.wolf{
+    padding: 50px;
+    color: black;
+    font-size: 180px;
+}
+.two{
+    background-color: rgb(187, 197, 150);
+    height: 20vh;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shrimp{
+    padding: 20px;
+    color: black;
+    font-size: 40px;
+}
+.three{
+    background-color: rgb(190, 157, 162);
+    height: 30vh;
+    width: 80%;
+    float: left; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spider{
+    padding: 20px;
+    color: black;
+    font-size: 60px;
+}
+.four{
+    background-color: rgb(157, 130, 167);
+    height: 50vh;
+    width: 80%;
+    float: left; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cat{
+    padding: 30px;
+    color: black;
+    font-size: 120px;
+}
+.clear{
+    clear: both;
+}
+#link{
+    text-align: center;
+    padding: 1px;
+}

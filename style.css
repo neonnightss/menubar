@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    text-align: center;
+}
+.one{
+    background-color: rgb(92, 84, 84);
+    height: 40vh;
+    width: 80%;
+    float: left; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    background-color: rgb(177, 171, 93);
+    height: 30vh;
+    width: 20%;
+    float: left; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.three{
+    background-color: rgb(240, 169, 180);
+    height: 10vh;
+    width: 20%;
+    float: left; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.four{
+    background-color: rgb(111, 179, 167);
+    height: 40vh;
+    width: 100%;
+    float: left; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.five{
+    background-color: rgb(165, 204, 73);
+    height: 20vh;
+    width: 20%;
+    float: left; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.six{
+    background-color: rgb(135, 85, 150);
+    height: 20vh;
+    width: 80%;
+    float: left; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clear{
+    clear: both;
+}
+#link{
+    text-align: center;
+    padding: 1px;
+}
